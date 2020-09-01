@@ -32,3 +32,7 @@ And paced upon the mountains overhead
 And hid his face amid a crowd of stars
 
 
+## Now we switched to the branch feature-C
+Let's have a talk, can you spell the word feature?
+Yes,it's f,a,e,t,u,r,e
+No, it's f,e,a,t,u,r,e
